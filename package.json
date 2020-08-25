@@ -1,0 +1,27 @@
+{
+  "name": "giveaways-bot",
+  "version": "1.0.0",
+  "description": "Giveways Bot using the discord-giveaways package",
+  "main": "indexdb.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Androz2091/giveaways-bot.git"
+  },
+  "keywords": [
+    "giveaways",
+    "bot"
+  ],
+    "engines": {
+    "node": "12.x"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "discord-giveaways": "^4.2.1",
+    "discord.js": "^12.3.1",
+    "ms": "^2.1.2",
+    "quick.db": "^7.1.1"
+  }
+}
