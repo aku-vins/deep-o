@@ -1,2 +1,0 @@
-# deep-o
-custom giveaways
